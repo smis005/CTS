@@ -1,2 +1,2 @@
-# CTS
-Angular JS_MONGODB
+# Self Learning
+Python
